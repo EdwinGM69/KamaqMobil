@@ -5,5 +5,8 @@
 expo-env.d.ts
 # @end expo-cli
 node_modules
+<<<<<<< HEAD
 .kilo
 .expo
+=======
+>>>>>>> 9b27fd31c5ad18deb2e99b72f5f1d15ca9455877
